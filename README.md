@@ -1,16 +1,36 @@
-### Hi there 👋
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Homemade+Apple&pause=1000&size=40&color=%154659&height=80&duration=3000&lines=hello%20there%20👋">
+</p>
+I'm Zainab (<i>she/her</i>), an Android Developer with 3 years of experience building Android applications using Kotlin and Java. I love working on projects that have real life impact, or make people's lives a little easier or more fun!
 
-<!--
-**zennymorh/zennymorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Skills
+- **Languages:** Kotlin, Java
+- **Tools:** Git & GitHub, Android Studio
 
-Here are some ideas to get you started:
+***Technologies/Libraries used:***
+- MVVM & Clean architecture
+- Kotlin Coroutines
+- Persistence (Room, SharedPref)
+- API integration (REST APIs, Retrofit)
+- Dependency Injection (Hilt)
+- Jetpack Compose
+- Testing (jUnit, Mockito)
+- Firebase
+- Google maps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> 🚀 I’m currently working on...</summary>
+  <a href="https://github.com/zennymorh/BookKeeper/" target="_blank">Bookkeeper</a><br>
+  <a href="https://github.com/Czeach/Rapport/" target="_blank">Rapport</a>
+</details>
+
+<details>
+<summary> 🌱 I’m currently learning ...</summary>
+- Jetpack Compose<br>
+- Testing<br>
+- Being consistent 😅
+</details>
+
+### 📫 How to reach me
+  - [Twitter](https://twitter.com/zennymorh_)
+  - [LinkedIn](https://www.linkedin.com/in/zainab-jimoh-48b495192/)
